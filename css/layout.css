@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14/04/2014, 17:11:23
+    Author     : Redneck
+*/
+*{padding:0;margin:0}
+body{background-image: url("../img/bg_fundo.jpg");}
+
+#container{width:961px; background: #FFF; margin: 0 auto; padding: 0 0 43px 0;}
+#wrapper{width: 900px; background: gold; margin: 0 auto; }
+
+header{min-height: 185px; background: lime;}
+
+#main{overflow: hidden; min-height: 300px; background: pink;}
+#mains-coluna1{float:left; width: 149px; background: purple; min-height: 300px;}
+#mains-miolo{float:left; width: 631px; background: red; min-height: 300px;}
+#mains-coluna2{float:left; width: 120px; background: olive; min-height: 300px;}
+footer{min-height: 65px; background: lime;}
